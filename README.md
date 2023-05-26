@@ -1,2 +1,2 @@
 # facebook-template-html-css
-Realizando la página de facebook en thml y css
+Realizando la página de facebook en html y css
